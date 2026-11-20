@@ -9,4 +9,5 @@
 ### VScode에서 commit 익히기
 * 1차
 * 2차
-* 연습다했다! 
+* 연습다했다!  
+[https://www.naver.com/]
